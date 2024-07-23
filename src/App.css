@@ -1,0 +1,13 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  background: radial-gradient(circle, #a98080, lightgray, rgb(250, 206, 125));
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  
+}

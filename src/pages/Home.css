@@ -1,0 +1,18 @@
+#box1 {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border: 1px rgb(49, 39, 39) solid;
+    box-shadow: 0 0 10px black;
+    width: 100vh;
+    font-size: 8px;
+    margin-top: 15px; 
+}
+
+#box2{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
